@@ -1,7 +1,8 @@
 # Global Earthquake Analysis Dashboard (1900–2014)
 
-![Dashboard Preview](Earthquakes Data Vizualization.png)
-*A static preview of the dashboard. [Click here to view the interactive version on Tableau Public]((https://public.tableau.com/app/profile/sailesh.dahal/viz/Earthquakes1900-2013_17472010380270/Dashboard1)).*
+![Dashboard Preview] <img width="1819" height="4271" alt="Earthquake Data Vizualization" src="https://github.com/user-attachments/assets/01f97f93-0249-4cf2-bdd7-29fa92e802c6" />
+
+*A static preview of the dashboard. [Click here to view the interactive version on Tableau Public](https://public.tableau.com/app/profile/sailesh.dahal/viz/Earthquakes1900-2013_17472010380270/Dashboard1)*
 
 ## 📊 Project Overview
 This Tableau project visualizes over a century of seismic activity data, analyzing patterns in earthquake magnitude, depth, and frequency across the globe. The dashboard provides a historical view of 8,308 recorded seismic events between March 1900 and March 2014.
