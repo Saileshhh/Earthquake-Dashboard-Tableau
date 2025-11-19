@@ -1,6 +1,6 @@
 # Global Earthquake Analysis Dashboard (1900–2014)
 
-![Dashboard Preview](SCREENSHOT.png)
+![Dashboard Preview](Earthquakes Data Vizualization.png)
 *A static preview of the dashboard. [Click here to view the interactive version on Tableau Public]((https://public.tableau.com/app/profile/sailesh.dahal/viz/Earthquakes1900-2013_17472010380270/Dashboard1)).*
 
 ## 📊 Project Overview
@@ -37,6 +37,6 @@ This Tableau project visualizes over a century of seismic activity data, analyzi
     Scatter Plots for variable correlation.
 
 ## 🚀 How to Run This Project
-1.  Download the `Earthquake_Analysis.twbx` file from this repository.
+1.  Download the `Earthquakes Data Viz.twbx` file from this repository.
 2.  Open the file in **Tableau Desktop** or **Tableau Public**.
 3.  Explore the interactive filters to isolate data by Year, Magnitude type (Mw, Ms, Mb), or Region.
